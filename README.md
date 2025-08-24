@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi 👋, I'm Evan Huang
 </h1>
-<h3 align="center">🚀 Pythonist | AI Explorer | Fullstack Learner</h3>
+<h3 align="center">🚀 Pythonist | AI Explorer | Machine Learning & Deep Learning</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ### 🚀 About Me  
 - 🎓 Background: Computer Science + AI enthusiast  
 - 🏢 Experience: Former Fujifilm Manager, now focusing on **Data Science & Fullstack Development**  
-- 🛠️ Tech I love: `Python` · `Golang` · `Angular` · `SQL` · `ML/Deep Learning`  
+- 🛠️ Tech I love: `Python` · `Transformer` · `NLP` · `SQL` · `LLM`  
 - 💡 Motto: **Keep learning, keep building, keep sharing!**
 
 ---

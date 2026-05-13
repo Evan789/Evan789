@@ -27,7 +27,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 ![HTML](https://img.shields.io/badge/HTML-336791?logo=HTML&logoColor=white&style=for-the-badge)
-
+![Fast API](https://img.shields.io/badge/FastAPI-246F31?logo=FastAPI&logoColor=white&style=for-the-badge)
 #### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)

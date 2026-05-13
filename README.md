@@ -15,7 +15,7 @@
 
 ### 🚀 About Me  
 - 🎓 Background: Data Science + AI enthusiast  
-- 🏢 Experience: Former Fujifilm Manager, now focusing on **Data Science & Fullstack Development**  
+- 🏢 Experience: Former Fujifilm Manager, now focusing on ** AI & Fullstack Development**  
 - 🛠️ Tech I love: `Python` · `Transformer` · `NLP` · `LLM`  
 - 💡 Motto: **Keep learning, keep building, keep sharing!**
 
@@ -25,10 +25,8 @@
 
 #### ⚡ Languages & Frameworks  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![Golang](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
-![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-336791?logo=HTML&logoColor=white&style=for-the-badge)
 
 #### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)

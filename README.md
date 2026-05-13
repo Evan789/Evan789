@@ -30,7 +30,7 @@
 ![Fast API](https://img.shields.io/badge/FastAPI-246F31?logo=FastAPI&logoColor=white&style=for-the-badge)
 ![accelerate](https://img.shields.io/badge/accelerate-G9KF77?logo=accelerate&logoColor=white&style=for-the-badge)
 ![Qdrant](https://img.shields.io/badge/Qdrant-B17611?logo=Qdrant&logoColor=white&style=for-the-badge)
-![PaddleOCR](https://img.shields.io/badge/PaddleOCR-K77L32?logo=PaddleOCR&logoColor=white&style=for-the-badge)
+![PaddleOCR](https://img.shields.io/badge/PaddleOCR-A637AB?logo=PaddleOCR&logoColor=white&style=for-the-badge)
 
 #### 🛠️ Tools  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)

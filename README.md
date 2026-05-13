@@ -14,9 +14,9 @@
 ---
 
 ### 🚀 About Me  
-- 🎓 Background: Computer Science + AI enthusiast  
+- 🎓 Background: Data Science + AI enthusiast  
 - 🏢 Experience: Former Fujifilm Manager, now focusing on **Data Science & Fullstack Development**  
-- 🛠️ Tech I love: `Python` · `Transformer` · `NLP` · `SQL` · `LLM`  
+- 🛠️ Tech I love: `Python` · `Transformer` · `NLP` · `LLM`  
 - 💡 Motto: **Keep learning, keep building, keep sharing!**
 
 ---
